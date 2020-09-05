@@ -18,8 +18,9 @@ It uses <a href="https://en.wikipedia.org/wiki/Simulated_annealing">simulated an
 <h3>Files</h3>
 <ul>
   <li><em>problemset_06_encrypted_input.txt</em> is the encrypted text</li>
-  <li><em>language_model.py</em> containing the functionality needed in order to read a corpus from an online resource and build an bigram language model</li>
+  <li><em>language_model.py</em> containing the functionality needed in order to read a corpus from an online resource and build a bigram language model</li>
   <li><em>permutation.py</em> representing a letter permutation = the dictionary</li>
   <li><em>simulated_annealing.py</em> containing an implementation of the simulated annealing algorithm for finding the optimal hypothesis in a large conjecture space</li>
   <li><em>main.py</em> main function.</li>
+  <li><em>solution.pdf</em> containing the decrypted message, the winning hypothesis and the simulation annealing start values.
 </ul>
